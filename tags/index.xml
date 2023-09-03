@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo tranquilpeak theme</title>
+    <link>https://Jmmsane.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Jmmsane.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人情况</title>
+      <link>https://Jmmsane.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%83%85%E5%86%B5/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%83%85%E5%86%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>更多博客</title>
+      <link>https://Jmmsane.github.io/tags/%E6%9B%B4%E5%A4%9A%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/%E6%9B%B4%E5%A4%9A%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php下载</title>
+      <link>https://Jmmsane.github.io/tags/php%E4%B8%8B%E8%BD%BD/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/php%E4%B8%8B%E8%BD%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html elements</title>
+      <link>https://Jmmsane.github.io/tags/html-elements/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://Jmmsane.github.io/tags/markdown/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://Jmmsane.github.io/tags/html/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

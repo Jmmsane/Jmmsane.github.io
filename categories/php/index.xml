@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Hugo tranquilpeak theme</title>
+    <link>https://Jmmsane.github.io/categories/php/</link>
+    <description>Recent content in php on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Jmmsane.github.io/categories/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>win10系统安装php开发环境（PHP&#43;Apache&#43;MySQL）--PHP </title>
+      <link>https://Jmmsane.github.io/2022/06/win10%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85php%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83php-apache-mysql--php/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jmmsane.github.io/2022/06/win10%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85php%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83php-apache-mysql--php/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
